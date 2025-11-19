@@ -1,0 +1,1001 @@
+fecha,edad,CityAcc,CityCyV,CityPyP,CityEP,CityMus,CityPilP,CityPoli,CityCCul
+11/06/2025 13:19:29,50 a 64,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Bueno,Bueno,Excelente
+04/10/2025 10:15:09,65 o más,Excelente,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Excelente,Bueno
+05/06/2025 10:27:11,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente
+12/06/2025 09:01:17,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Regular,Muy Bueno,Regular,Muy Bueno
+07/10/2025 00:10:51,50 a 64,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno
+05/08/2025 14:38:19,30 a 49,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Regular,Bueno
+28/10/2025 22:32:30,65 o más,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Bueno
+13/09/2025 23:55:51,50 a 64,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+14/08/2025 05:17:02,30 a 49,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente
+26/10/2025 10:00:34,50 a 64,Excelente,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Excelente
+24/08/2025 22:43:29,50 a 64,Excelente,Regular,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Bueno
+10/07/2025 14:22:22,50 a 64,Muy Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno,Excelente,Bueno,Regular
+06/09/2025 10:17:27,18 a 29,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno
+05/08/2025 12:38:17,65 o más,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+08/06/2025 16:08:48,30 a 49,Excelente,Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno
+07/06/2025 08:31:38,50 a 64,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Regular
+07/06/2025 22:41:19,50 a 64,Muy Bueno,Bueno,Bueno,Bueno,Regular,Excelente,Muy Bueno,Excelente
+12/08/2025 18:10:56,65 o más,Excelente,Excelente,Muy Bueno,Bueno,Bueno,Bueno,Muy Bueno,Regular
+18/09/2025 20:37:45,18 a 29,Muy Bueno,Regular,Excelente,Muy Bueno,Muy Bueno,Regular,Excelente,Bueno
+07/11/2025 06:38:07,50 a 64,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Bueno
+11/10/2025 18:53:04,30 a 49,Excelente,Excelente,Bueno,Bueno,Excelente,Bueno,Muy Bueno,Excelente
+11/09/2025 02:21:33,18 a 29,Bueno,Excelente,Excelente,Excelente,Regular,Muy Bueno,Bueno,Muy Bueno
+05/09/2025 03:09:54,50 a 64,Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+11/09/2025 06:15:35,50 a 64,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Excelente,Excelente,Excelente
+06/06/2025 19:04:39,30 a 49,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno
+14/08/2025 15:40:27,30 a 49,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno
+03/08/2025 20:14:59,65 o más,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Excelente,Excelente,Bueno
+28/07/2025 20:00:37,18 a 29,Malo,Bueno,Bueno,Bueno,Regular,Bueno,Excelente,Excelente
+16/07/2025 01:56:30,30 a 49,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Regular
+25/06/2025 21:58:45,30 a 49,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Regular
+23/08/2025 03:21:43,30 a 49,Muy Bueno,Regular,Bueno,Bueno,Muy Bueno,Bueno,Excelente,Excelente
+03/10/2025 13:32:25,18 a 29,Excelente,Muy Bueno,Muy Bueno,Bueno,Regular,Excelente,Bueno,Excelente
+05/09/2025 19:18:06,50 a 64,Excelente,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Bueno,Excelente
+19/06/2025 23:29:01,50 a 64,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente
+19/08/2025 06:34:20,65 o más,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+07/07/2025 15:24:34,18 a 29,Muy Bueno,Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+20/06/2025 22:23:03,50 a 64,Excelente,Bueno,Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+31/05/2025 11:00:41,30 a 49,Excelente,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Bueno
+05/06/2025 02:31:07,50 a 64,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+17/07/2025 13:30:10,65 o más,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+25/07/2025 05:10:41,50 a 64,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno
+04/09/2025 10:29:38,50 a 64,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente
+14/09/2025 05:46:56,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno
+19/07/2025 01:40:49,30 a 49,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno,Bueno
+13/07/2025 06:41:12,30 a 49,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Bueno
+17/06/2025 13:39:52,50 a 64,Muy Bueno,Regular,Bueno,Muy Bueno,Regular,Muy Bueno,Excelente,Excelente
+08/09/2025 21:46:45,18 a 29,Muy Bueno,Regular,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Excelente
+29/07/2025 03:13:45,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno
+01/07/2025 07:55:44,50 a 64,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno
+25/06/2025 09:24:51,50 a 64,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Regular
+18/08/2025 20:53:46,50 a 64,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Regular,Excelente
+12/09/2025 19:31:24,30 a 49,Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno,Excelente,Excelente,Excelente
+27/09/2025 14:36:24,50 a 64,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno
+09/08/2025 21:52:13,18 a 29,Bueno,Regular,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente
+26/09/2025 07:48:23,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Excelente
+01/09/2025 04:06:11,65 o más,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Excelente
+19/08/2025 14:04:14,30 a 49,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente
+26/08/2025 19:22:26,30 a 49,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+11/08/2025 08:11:54,50 a 64,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Regular,Excelente,Muy Bueno
+17/07/2025 10:42:45,50 a 64,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Excelente
+18/10/2025 12:21:27,50 a 64,Malo,Excelente,Bueno,Excelente,Muy Bueno,Bueno,Excelente,Bueno
+02/06/2025 06:48:46,65 o más,Excelente,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Excelente,Excelente
+17/06/2025 19:37:26,50 a 64,Excelente,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Regular,Muy Bueno
+18/08/2025 13:59:40,50 a 64,Malo,Bueno,Bueno,Bueno,Muy Bueno,Excelente,Excelente,Bueno
+04/07/2025 08:00:30,65 o más,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno
+11/08/2025 06:01:46,50 a 64,Bueno,Excelente,Excelente,Excelente,Excelente,Excelente,Excelente,Bueno
+01/11/2025 12:59:34,50 a 64,Malo,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente
+04/10/2025 03:22:24,30 a 49,Excelente,Bueno,Excelente,Regular,Excelente,Muy Bueno,Bueno,Bueno
+10/06/2025 08:19:56,50 a 64,Bueno,Bueno,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno
+25/07/2025 20:35:16,30 a 49,Muy Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+01/10/2025 13:16:10,65 o más,Excelente,Muy Bueno,Excelente,Bueno,Bueno,Bueno,Regular,Muy Bueno
+27/06/2025 03:32:59,50 a 64,Excelente,Excelente,Bueno,Bueno,Excelente,Bueno,Bueno,Muy Bueno
+08/08/2025 11:26:03,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Bueno,Bueno,Bueno
+07/09/2025 03:13:43,50 a 64,Bueno,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno
+30/08/2025 20:17:42,30 a 49,Excelente,Bueno,Bueno,Bueno,Excelente,Muy Bueno,Bueno,Excelente
+08/09/2025 21:51:49,30 a 49,Muy Bueno,Bueno,Excelente,Muy Bueno,Regular,Excelente,Excelente,Bueno
+10/07/2025 01:46:37,30 a 49,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente
+09/07/2025 10:41:58,50 a 64,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+22/08/2025 12:36:12,50 a 64,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno
+16/07/2025 20:35:22,30 a 49,Excelente,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Bueno,Bueno
+11/10/2025 05:22:36,18 a 29,Excelente,Bueno,Excelente,Excelente,Regular,Regular,Muy Bueno,Muy Bueno
+26/06/2025 04:45:17,50 a 64,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Regular,Bueno,Bueno
+14/10/2025 21:32:23,65 o más,Excelente,Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+27/08/2025 01:27:03,50 a 64,Muy Bueno,Regular,Excelente,Muy Bueno,Regular,Excelente,Muy Bueno,Muy Bueno
+30/07/2025 09:54:12,65 o más,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Regular,Muy Bueno
+09/10/2025 18:12:19,30 a 49,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno
+29/09/2025 17:24:10,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+26/07/2025 23:05:13,18 a 29,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente
+05/09/2025 23:46:41,30 a 49,Excelente,Bueno,Bueno,Excelente,Excelente,Excelente,Regular,Muy Bueno
+16/08/2025 10:01:40,30 a 49,Muy Bueno,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Excelente
+16/06/2025 21:18:15,50 a 64,Muy Bueno,Muy Bueno,Bueno,Bueno,Regular,Bueno,Muy Bueno,Muy Bueno
+13/06/2025 18:12:12,30 a 49,Malo,Bueno,Muy Bueno,Excelente,Regular,Muy Bueno,Bueno,Bueno
+13/09/2025 19:42:16,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Regular,Muy Bueno
+24/06/2025 06:29:06,30 a 49,Excelente,Bueno,Excelente,Excelente,Regular,Bueno,Bueno,Muy Bueno
+11/09/2025 08:56:09,50 a 64,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Excelente,Bueno,Bueno
+05/11/2025 10:52:44,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno,Excelente
+30/07/2025 20:23:44,18 a 29,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente
+02/06/2025 03:11:57,18 a 29,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Bueno,Bueno,Excelente
+23/10/2025 04:03:00,30 a 49,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Bueno,Muy Bueno,Excelente
+24/09/2025 13:49:18,30 a 49,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno,Bueno
+14/07/2025 05:51:24,30 a 49,Excelente,Excelente,Excelente,Bueno,Excelente,Bueno,Muy Bueno,Bueno
+16/10/2025 06:52:40,18 a 29,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Bueno
+23/08/2025 14:13:16,18 a 29,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno
+02/06/2025 09:05:14,18 a 29,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Bueno
+16/07/2025 04:18:21,50 a 64,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Regular,Muy Bueno
+30/09/2025 03:49:38,18 a 29,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Bueno
+24/10/2025 10:00:49,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+26/09/2025 16:21:53,18 a 29,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+13/10/2025 14:33:23,50 a 64,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Bueno,Bueno,Excelente
+26/10/2025 23:27:51,30 a 49,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+29/08/2025 17:21:37,50 a 64,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente
+10/06/2025 17:27:42,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Bueno,Muy Bueno
+24/09/2025 13:58:41,30 a 49,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno,Excelente,Excelente,Muy Bueno
+06/06/2025 02:57:02,30 a 49,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno
+05/07/2025 08:30:42,30 a 49,Bueno,Bueno,Muy Bueno,Bueno,Regular,Muy Bueno,Muy Bueno,Excelente
+24/10/2025 22:17:13,50 a 64,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente
+18/10/2025 08:25:09,30 a 49,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno
+04/08/2025 00:50:49,30 a 49,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno,Muy Bueno
+16/10/2025 05:49:14,50 a 64,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+15/10/2025 02:11:31,30 a 49,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Bueno
+31/10/2025 00:13:25,18 a 29,Excelente,Bueno,Excelente,Bueno,Bueno,Muy Bueno,Bueno,Bueno
+01/06/2025 22:44:39,30 a 49,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Excelente,Excelente
+08/06/2025 16:07:38,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno
+02/08/2025 14:17:20,30 a 49,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno
+13/07/2025 12:30:57,65 o más,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente
+02/07/2025 10:55:02,50 a 64,Muy Bueno,Excelente,Excelente,Muy Bueno,Regular,Excelente,Excelente,Excelente
+23/06/2025 06:48:40,65 o más,Excelente,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+06/08/2025 19:35:05,50 a 64,Muy Bueno,Bueno,Bueno,Bueno,Regular,Muy Bueno,Excelente,Excelente
+25/10/2025 22:45:56,65 o más,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+05/07/2025 15:31:26,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+11/08/2025 14:49:35,30 a 49,Excelente,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Bueno
+16/10/2025 22:30:32,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno
+05/08/2025 19:01:35,30 a 49,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno
+04/08/2025 03:41:12,65 o más,Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Bueno,Excelente
+21/06/2025 21:46:00,50 a 64,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Excelente
+21/06/2025 05:38:16,50 a 64,Excelente,Excelente,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Bueno
+26/09/2025 23:42:22,50 a 64,Muy Bueno,Muy Bueno,Bueno,Excelente,Regular,Excelente,Bueno,Muy Bueno
+26/07/2025 19:26:22,50 a 64,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente
+30/09/2025 03:25:35,65 o más,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+19/07/2025 08:10:57,30 a 49,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Regular
+30/10/2025 04:15:37,50 a 64,Excelente,Excelente,Excelente,Bueno,Regular,Bueno,Muy Bueno,Muy Bueno
+31/05/2025 21:43:29,30 a 49,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno
+16/08/2025 22:00:17,50 a 64,Muy Bueno,Regular,Bueno,Excelente,Muy Bueno,Regular,Bueno,Muy Bueno
+27/07/2025 11:20:15,30 a 49,Excelente,Regular,Muy Bueno,Bueno,Regular,Regular,Excelente,Excelente
+15/09/2025 22:49:45,18 a 29,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+17/07/2025 11:56:36,18 a 29,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+10/09/2025 04:19:33,18 a 29,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+01/10/2025 04:49:11,30 a 49,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+02/08/2025 02:54:53,30 a 49,Bueno,Excelente,Excelente,Excelente,Excelente,Bueno,Excelente,Excelente
+26/10/2025 01:41:22,50 a 64,Muy Bueno,Bueno,Bueno,Bueno,Excelente,Excelente,Excelente,Excelente
+02/11/2025 19:59:08,50 a 64,Bueno,Bueno,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno
+27/09/2025 16:31:37,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+10/06/2025 06:35:41,30 a 49,Muy Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno,Excelente,Excelente,Excelente
+05/09/2025 04:58:21,30 a 49,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+19/10/2025 18:33:24,65 o más,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Bueno,Bueno,Excelente
+06/11/2025 16:13:06,50 a 64,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno,Regular,Excelente
+24/08/2025 13:10:13,50 a 64,Muy Bueno,Excelente,Muy Bueno,Regular,Excelente,Bueno,Muy Bueno,Excelente
+08/09/2025 09:56:41,30 a 49,Excelente,Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+02/06/2025 15:21:04,50 a 64,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno
+07/10/2025 13:29:20,30 a 49,Muy Bueno,Bueno,Excelente,Excelente,Bueno,Excelente,Excelente,Excelente
+04/08/2025 08:50:48,50 a 64,Malo,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+22/06/2025 20:16:44,50 a 64,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente
+29/10/2025 06:39:04,50 a 64,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno
+04/10/2025 05:04:58,30 a 49,Muy Bueno,Muy Bueno,Muy Bueno,Regular,Excelente,Excelente,Muy Bueno,Bueno
+28/06/2025 01:17:52,50 a 64,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Regular
+16/10/2025 16:11:20,18 a 29,Malo,Muy Bueno,Bueno,Muy Bueno,Excelente,Bueno,Regular,Excelente
+02/10/2025 05:07:30,18 a 29,Bueno,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+22/06/2025 19:39:32,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente
+01/10/2025 22:07:55,50 a 64,Malo,Bueno,Excelente,Excelente,Excelente,Excelente,Excelente,Regular
+05/10/2025 13:33:58,30 a 49,Muy Bueno,Bueno,Muy Bueno,Excelente,Regular,Excelente,Excelente,Muy Bueno
+02/09/2025 23:28:33,18 a 29,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+17/10/2025 05:28:33,50 a 64,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Bueno,Bueno,Bueno
+01/08/2025 02:23:39,50 a 64,Bueno,Excelente,Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente
+18/08/2025 14:47:56,65 o más,Excelente,Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+14/06/2025 18:53:11,50 a 64,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Bueno,Regular
+04/09/2025 23:04:23,50 a 64,Muy Bueno,Muy Bueno,Excelente,Excelente,Regular,Muy Bueno,Muy Bueno,Muy Bueno
+15/07/2025 20:25:00,30 a 49,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente
+31/05/2025 01:59:11,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Regular,Muy Bueno,Excelente,Excelente
+26/07/2025 14:30:32,50 a 64,Excelente,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno
+21/09/2025 08:20:45,65 o más,Excelente,Excelente,Excelente,Bueno,Regular,Muy Bueno,Bueno,Bueno
+12/08/2025 09:12:09,65 o más,Muy Bueno,Muy Bueno,Bueno,Bueno,Excelente,Excelente,Excelente,Excelente
+05/09/2025 23:21:46,50 a 64,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Excelente,Bueno,Excelente
+31/05/2025 20:47:16,30 a 49,Excelente,Excelente,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Excelente
+14/10/2025 21:50:50,50 a 64,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+18/10/2025 08:31:03,30 a 49,Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno,Bueno,Bueno
+20/08/2025 09:24:46,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Regular,Excelente,Excelente,Bueno
+28/09/2025 10:12:31,50 a 64,Bueno,Excelente,Bueno,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno
+25/10/2025 16:50:19,50 a 64,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno
+06/07/2025 14:56:12,30 a 49,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno
+12/06/2025 13:35:55,50 a 64,Bueno,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno
+28/09/2025 08:16:30,50 a 64,Excelente,Bueno,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Excelente
+17/07/2025 20:50:06,50 a 64,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente
+25/09/2025 02:48:04,50 a 64,Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+28/10/2025 15:59:04,30 a 49,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+14/07/2025 04:22:02,18 a 29,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+22/07/2025 19:57:14,50 a 64,Excelente,Bueno,Bueno,Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+06/09/2025 23:50:59,65 o más,Muy Bueno,Bueno,Bueno,Bueno,Excelente,Excelente,Muy Bueno,Bueno
+14/10/2025 06:06:16,30 a 49,Excelente,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno
+22/06/2025 08:48:51,65 o más,Muy Bueno,Bueno,Bueno,Excelente,Bueno,Bueno,Muy Bueno,Bueno
+03/08/2025 11:17:18,30 a 49,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente
+12/07/2025 09:12:12,65 o más,Excelente,Excelente,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno
+09/07/2025 17:37:31,50 a 64,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Excelente
+01/09/2025 19:09:22,65 o más,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente
+28/08/2025 11:27:31,50 a 64,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno
+28/06/2025 14:20:28,30 a 49,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno,Bueno
+07/06/2025 13:08:44,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno,Regular
+17/08/2025 14:51:29,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente
+14/06/2025 02:05:13,50 a 64,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+06/08/2025 06:40:23,30 a 49,Excelente,Bueno,Bueno,Muy Bueno,Excelente,Bueno,Bueno,Excelente
+01/06/2025 06:50:35,50 a 64,Excelente,Excelente,Excelente,Regular,Excelente,Muy Bueno,Bueno,Bueno
+30/05/2025 10:26:13,18 a 29,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+17/08/2025 08:43:12,30 a 49,Bueno,Regular,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+01/06/2025 11:43:08,30 a 49,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno
+24/06/2025 18:56:15,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno
+21/06/2025 07:16:29,50 a 64,Bueno,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Excelente,Excelente
+27/08/2025 08:10:26,30 a 49,Muy Bueno,Bueno,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+12/10/2025 10:44:44,50 a 64,Muy Bueno,Excelente,Muy Bueno,Regular,Excelente,Excelente,Regular,Excelente
+12/07/2025 00:04:46,50 a 64,Excelente,Excelente,Bueno,Bueno,Excelente,Excelente,Bueno,Regular
+12/08/2025 02:14:57,65 o más,Bueno,Excelente,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno
+01/11/2025 22:03:44,30 a 49,Excelente,Bueno,Muy Bueno,Regular,Bueno,Muy Bueno,Muy Bueno,Excelente
+07/07/2025 02:24:20,30 a 49,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno
+14/07/2025 03:22:43,65 o más,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno,Bueno,Excelente,Muy Bueno
+23/06/2025 09:06:49,50 a 64,Excelente,Excelente,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Excelente
+26/09/2025 22:07:25,50 a 64,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+18/06/2025 20:45:35,65 o más,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno,Bueno
+21/09/2025 20:43:06,30 a 49,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Excelente,Bueno,Bueno
+01/10/2025 00:44:48,65 o más,Muy Bueno,Bueno,Muy Bueno,Excelente,Bueno,Excelente,Regular,Excelente
+21/06/2025 21:59:00,30 a 49,Muy Bueno,Regular,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+27/07/2025 13:01:28,30 a 49,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno
+05/08/2025 01:59:09,50 a 64,Muy Bueno,Excelente,Excelente,Regular,Muy Bueno,Muy Bueno,Bueno,Muy Bueno
+14/06/2025 00:52:52,18 a 29,Excelente,Excelente,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno
+13/07/2025 03:01:37,18 a 29,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente
+31/05/2025 03:36:54,65 o más,Excelente,Regular,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno
+03/09/2025 14:39:41,18 a 29,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Bueno,Regular,Bueno
+25/08/2025 19:10:25,18 a 29,Muy Bueno,Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+09/10/2025 12:56:24,50 a 64,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Regular
+16/07/2025 21:28:51,50 a 64,Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+18/10/2025 21:26:52,18 a 29,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+20/06/2025 01:46:35,30 a 49,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Regular,Excelente
+08/11/2025 09:13:25,65 o más,Bueno,Bueno,Bueno,Bueno,Muy Bueno,Regular,Bueno,Muy Bueno
+04/09/2025 13:49:29,50 a 64,Muy Bueno,Regular,Muy Bueno,Bueno,Excelente,Bueno,Bueno,Excelente
+13/08/2025 16:14:24,30 a 49,Excelente,Excelente,Muy Bueno,Bueno,Bueno,Bueno,Bueno,Excelente
+20/07/2025 15:55:20,30 a 49,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+20/08/2025 13:19:49,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Regular,Bueno
+02/09/2025 06:25:23,65 o más,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+11/10/2025 05:28:50,18 a 29,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Muy Bueno
+01/10/2025 20:06:54,30 a 49,Muy Bueno,Muy Bueno,Excelente,Bueno,Bueno,Muy Bueno,Excelente,Bueno
+10/07/2025 13:28:23,18 a 29,Bueno,Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno
+01/07/2025 19:51:58,30 a 49,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno,Muy Bueno
+12/10/2025 15:13:04,30 a 49,Excelente,Bueno,Muy Bueno,Bueno,Bueno,Excelente,Bueno,Excelente
+08/09/2025 05:03:35,18 a 29,Excelente,Bueno,Excelente,Bueno,Muy Bueno,Excelente,Bueno,Excelente
+05/10/2025 05:22:54,50 a 64,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente,Bueno
+23/08/2025 09:44:10,65 o más,Excelente,Muy Bueno,Muy Bueno,Excelente,Regular,Bueno,Excelente,Excelente
+06/11/2025 04:30:16,65 o más,Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Bueno,Muy Bueno,Excelente
+25/06/2025 22:19:03,18 a 29,Excelente,Excelente,Bueno,Muy Bueno,Regular,Muy Bueno,Excelente,Muy Bueno
+26/08/2025 16:52:45,50 a 64,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente
+15/06/2025 12:38:03,30 a 49,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+24/06/2025 12:18:02,50 a 64,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+03/11/2025 19:47:21,50 a 64,Excelente,Bueno,Muy Bueno,Excelente,Regular,Bueno,Bueno,Excelente
+26/09/2025 23:34:10,18 a 29,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Excelente
+11/06/2025 13:21:30,50 a 64,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Regular,Bueno
+01/11/2025 20:55:14,50 a 64,Excelente,Bueno,Excelente,Muy Bueno,Regular,Regular,Muy Bueno,Muy Bueno
+18/06/2025 08:52:10,30 a 49,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+06/10/2025 10:10:33,50 a 64,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Bueno
+24/10/2025 21:12:17,30 a 49,Excelente,Regular,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Bueno
+22/07/2025 15:28:20,50 a 64,Bueno,Bueno,Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+09/07/2025 08:36:51,18 a 29,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+31/08/2025 21:13:40,50 a 64,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Bueno,Excelente
+30/10/2025 18:39:01,50 a 64,Excelente,Muy Bueno,Excelente,Regular,Bueno,Excelente,Muy Bueno,Excelente
+14/09/2025 21:26:34,30 a 49,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno
+06/06/2025 03:33:27,18 a 29,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+24/09/2025 09:52:09,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Bueno,Excelente
+30/10/2025 23:57:18,18 a 29,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Regular,Bueno,Muy Bueno,Muy Bueno
+18/08/2025 10:27:57,18 a 29,Muy Bueno,Bueno,Excelente,Regular,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+15/06/2025 13:25:27,50 a 64,Muy Bueno,Excelente,Excelente,Bueno,Regular,Muy Bueno,Muy Bueno,Muy Bueno
+22/09/2025 23:49:24,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+07/09/2025 19:04:00,50 a 64,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Regular
+25/07/2025 07:30:18,50 a 64,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+12/06/2025 20:31:51,30 a 49,Excelente,Bueno,Excelente,Bueno,Excelente,Bueno,Excelente,Excelente
+17/07/2025 09:06:17,18 a 29,Excelente,Bueno,Bueno,Excelente,Muy Bueno,Excelente,Regular,Muy Bueno
+04/11/2025 19:33:29,50 a 64,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Bueno,Bueno,Muy Bueno
+29/08/2025 14:55:24,50 a 64,Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+29/07/2025 02:29:11,30 a 49,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+19/10/2025 01:03:56,50 a 64,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+19/08/2025 09:31:29,30 a 49,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Bueno
+18/08/2025 19:10:14,65 o más,Excelente,Bueno,Bueno,Muy Bueno,Regular,Excelente,Bueno,Bueno
+31/10/2025 08:14:30,50 a 64,Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Bueno,Muy Bueno
+09/09/2025 02:00:23,18 a 29,Excelente,Bueno,Excelente,Bueno,Excelente,Muy Bueno,Bueno,Regular
+12/07/2025 07:36:33,30 a 49,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente
+21/09/2025 20:01:23,50 a 64,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente
+07/09/2025 06:40:22,50 a 64,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno
+21/07/2025 18:28:55,30 a 49,Muy Bueno,Bueno,Excelente,Bueno,Excelente,Excelente,Excelente,Excelente
+06/10/2025 21:17:38,65 o más,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno
+08/09/2025 18:26:02,50 a 64,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Excelente
+05/06/2025 07:02:52,50 a 64,Muy Bueno,Bueno,Bueno,Bueno,Bueno,Excelente,Bueno,Excelente
+04/10/2025 00:55:54,50 a 64,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente
+23/06/2025 08:30:18,65 o más,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno,Excelente
+11/06/2025 03:23:44,50 a 64,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Muy Bueno
+13/07/2025 07:56:57,50 a 64,Bueno,Bueno,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Excelente,Excelente
+21/10/2025 23:29:40,50 a 64,Muy Bueno,Regular,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+26/09/2025 13:40:34,50 a 64,Bueno,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente
+22/08/2025 18:09:45,30 a 49,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Bueno,Bueno,Excelente
+11/08/2025 13:57:17,30 a 49,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno,Excelente
+05/07/2025 09:18:26,65 o más,Excelente,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno
+23/10/2025 14:13:06,30 a 49,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente
+04/09/2025 05:28:26,50 a 64,Muy Bueno,Bueno,Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno
+28/09/2025 18:47:11,30 a 49,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Excelente
+20/08/2025 08:46:54,50 a 64,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente,Regular,Bueno
+13/09/2025 02:05:44,30 a 49,Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+24/06/2025 06:12:20,50 a 64,Muy Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Regular,Muy Bueno
+31/08/2025 11:09:57,18 a 29,Muy Bueno,Bueno,Bueno,Bueno,Excelente,Excelente,Bueno,Regular
+06/08/2025 17:42:22,30 a 49,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+03/06/2025 20:44:12,30 a 49,Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno
+23/08/2025 18:05:04,50 a 64,Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno
+18/09/2025 16:04:26,50 a 64,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente,Bueno,Excelente,Excelente
+29/08/2025 15:07:21,50 a 64,Excelente,Excelente,Bueno,Bueno,Excelente,Bueno,Excelente,Excelente
+16/08/2025 05:38:59,18 a 29,Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno
+25/06/2025 09:02:50,30 a 49,Malo,Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno,Bueno,Regular
+08/06/2025 07:35:44,18 a 29,Excelente,Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente
+30/09/2025 23:12:17,30 a 49,Excelente,Bueno,Muy Bueno,Excelente,Regular,Excelente,Excelente,Bueno
+02/09/2025 09:29:31,65 o más,Excelente,Bueno,Bueno,Bueno,Excelente,Excelente,Muy Bueno,Excelente
+29/10/2025 10:11:22,30 a 49,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+01/09/2025 10:24:17,18 a 29,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+19/06/2025 18:29:52,65 o más,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente
+28/10/2025 20:04:23,50 a 64,Bueno,Excelente,Excelente,Bueno,Excelente,Bueno,Excelente,Excelente
+31/07/2025 23:00:44,18 a 29,Excelente,Muy Bueno,Muy Bueno,Excelente,Regular,Muy Bueno,Excelente,Excelente
+16/10/2025 09:05:00,50 a 64,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno,Bueno,Regular
+07/06/2025 02:56:11,50 a 64,Excelente,Bueno,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Excelente
+14/09/2025 06:55:28,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno
+22/07/2025 17:20:40,50 a 64,Excelente,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+13/09/2025 06:37:58,50 a 64,Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno,Muy Bueno
+19/07/2025 21:08:32,50 a 64,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente
+19/08/2025 00:19:05,50 a 64,Bueno,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Regular,Excelente
+04/11/2025 10:24:30,30 a 49,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno
+08/06/2025 22:18:48,50 a 64,Malo,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno
+31/05/2025 12:32:27,50 a 64,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+24/06/2025 04:58:44,50 a 64,Bueno,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Bueno,Bueno
+30/10/2025 09:35:16,65 o más,Bueno,Excelente,Bueno,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno
+16/06/2025 17:03:05,30 a 49,Bueno,Excelente,Excelente,Excelente,Bueno,Excelente,Excelente,Bueno
+16/08/2025 03:51:53,50 a 64,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Regular,Excelente
+06/06/2025 09:13:37,30 a 49,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno
+19/09/2025 20:04:38,50 a 64,Excelente,Excelente,Bueno,Regular,Muy Bueno,Bueno,Bueno,Muy Bueno
+18/09/2025 14:15:39,50 a 64,Muy Bueno,Regular,Bueno,Muy Bueno,Excelente,Excelente,Excelente,Excelente
+20/06/2025 03:40:40,30 a 49,Bueno,Excelente,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Excelente
+29/06/2025 06:34:23,50 a 64,Bueno,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Regular,Muy Bueno
+14/09/2025 02:39:55,50 a 64,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno
+09/08/2025 06:55:03,65 o más,Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+20/07/2025 04:23:54,50 a 64,Bueno,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+08/08/2025 04:19:09,18 a 29,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente
+10/10/2025 13:30:51,30 a 49,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno,Regular
+27/07/2025 09:09:03,30 a 49,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Bueno
+05/06/2025 10:34:28,50 a 64,Malo,Excelente,Muy Bueno,Bueno,Bueno,Muy Bueno,Excelente,Bueno
+23/07/2025 02:45:30,50 a 64,Excelente,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno
+27/09/2025 20:54:00,30 a 49,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+05/09/2025 02:59:36,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Regular,Muy Bueno
+22/09/2025 21:40:35,50 a 64,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno
+06/06/2025 10:12:49,50 a 64,Excelente,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+27/09/2025 11:17:05,65 o más,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+07/10/2025 03:42:44,65 o más,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno
+26/08/2025 14:18:52,50 a 64,Malo,Bueno,Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+28/06/2025 03:58:09,65 o más,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Bueno
+08/10/2025 20:09:29,30 a 49,Bueno,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente
+29/08/2025 02:14:17,18 a 29,Excelente,Bueno,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Excelente
+29/08/2025 06:22:33,50 a 64,Bueno,Excelente,Excelente,Muy Bueno,Bueno,Excelente,Regular,Bueno
+15/07/2025 04:15:04,50 a 64,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Bueno,Excelente
+25/06/2025 21:04:41,18 a 29,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+31/05/2025 13:45:34,50 a 64,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Regular,Muy Bueno
+30/05/2025 16:18:56,50 a 64,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Bueno,Excelente,Muy Bueno
+03/09/2025 17:11:59,65 o más,Excelente,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno
+16/06/2025 13:49:11,30 a 49,Muy Bueno,Regular,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno
+19/06/2025 17:36:28,18 a 29,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Excelente,Excelente,Muy Bueno
+24/06/2025 15:53:13,50 a 64,Excelente,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno
+22/09/2025 20:57:03,50 a 64,Excelente,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Bueno,Excelente
+13/10/2025 23:03:28,30 a 49,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+12/09/2025 04:12:50,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente,Bueno,Muy Bueno
+09/08/2025 11:14:00,30 a 49,Bueno,Bueno,Bueno,Bueno,Excelente,Bueno,Muy Bueno,Excelente
+13/08/2025 17:25:15,18 a 29,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno
+20/07/2025 22:17:10,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+27/09/2025 08:37:31,30 a 49,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente,Bueno,Muy Bueno
+03/11/2025 05:09:16,50 a 64,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno
+28/08/2025 06:56:04,18 a 29,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+24/07/2025 01:41:42,50 a 64,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Excelente
+13/10/2025 09:30:55,30 a 49,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente
+07/11/2025 20:54:18,50 a 64,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Bueno,Bueno,Bueno
+16/06/2025 11:26:09,50 a 64,Excelente,Excelente,Muy Bueno,Excelente,Regular,Muy Bueno,Muy Bueno,Excelente
+05/09/2025 16:02:30,50 a 64,Muy Bueno,Bueno,Muy Bueno,Excelente,Regular,Bueno,Muy Bueno,Muy Bueno
+30/06/2025 13:35:41,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Bueno,Bueno,Excelente,Muy Bueno
+02/08/2025 04:54:37,50 a 64,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno
+23/09/2025 19:06:06,50 a 64,Excelente,Bueno,Excelente,Bueno,Regular,Bueno,Muy Bueno,Muy Bueno
+22/10/2025 05:16:16,30 a 49,Bueno,Excelente,Bueno,Regular,Excelente,Muy Bueno,Excelente,Excelente
+12/06/2025 01:23:30,30 a 49,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno
+29/06/2025 14:57:54,50 a 64,Excelente,Excelente,Bueno,Regular,Muy Bueno,Excelente,Bueno,Excelente
+15/09/2025 14:07:50,18 a 29,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno
+17/09/2025 16:38:00,65 o más,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente
+28/09/2025 10:01:35,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno
+11/09/2025 02:21:42,65 o más,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+12/09/2025 12:21:04,30 a 49,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente
+07/07/2025 21:23:52,50 a 64,Excelente,Regular,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno
+12/06/2025 13:56:50,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+10/09/2025 12:51:53,50 a 64,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno,Bueno,Bueno
+23/07/2025 17:23:11,18 a 29,Bueno,Regular,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente
+06/10/2025 21:52:01,50 a 64,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno
+21/08/2025 17:16:14,50 a 64,Bueno,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente
+30/06/2025 19:59:36,30 a 49,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Regular
+08/07/2025 19:46:24,65 o más,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+01/06/2025 09:25:27,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente
+17/08/2025 15:34:08,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno
+31/08/2025 21:31:25,30 a 49,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Muy Bueno
+26/06/2025 04:43:53,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno
+07/09/2025 16:58:03,30 a 49,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno
+04/06/2025 10:19:55,65 o más,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+25/07/2025 09:12:00,18 a 29,Bueno,Bueno,Muy Bueno,Muy Bueno,Regular,Excelente,Muy Bueno,Excelente
+02/07/2025 11:31:08,30 a 49,Excelente,Muy Bueno,Muy Bueno,Excelente,Regular,Excelente,Excelente,Bueno
+03/07/2025 23:50:37,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Bueno
+25/09/2025 12:53:50,30 a 49,Excelente,Bueno,Excelente,Regular,Muy Bueno,Muy Bueno,Excelente,Excelente
+13/07/2025 04:37:54,18 a 29,Muy Bueno,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente
+19/08/2025 07:35:39,50 a 64,Excelente,Regular,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+20/06/2025 06:31:00,65 o más,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+30/10/2025 08:31:35,30 a 49,Bueno,Muy Bueno,Excelente,Muy Bueno,Regular,Muy Bueno,Excelente,Muy Bueno
+11/09/2025 17:59:54,30 a 49,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno
+24/06/2025 10:43:26,18 a 29,Excelente,Excelente,Excelente,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Muy Bueno
+10/06/2025 07:58:27,50 a 64,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente
+01/11/2025 01:24:17,50 a 64,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+02/11/2025 15:41:37,18 a 29,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+15/10/2025 11:50:41,18 a 29,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Bueno,Bueno,Bueno
+22/10/2025 04:51:12,30 a 49,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Muy Bueno
+21/07/2025 22:00:46,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Muy Bueno
+01/10/2025 06:09:53,65 o más,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+06/10/2025 16:34:16,50 a 64,Bueno,Excelente,Muy Bueno,Bueno,Regular,Excelente,Bueno,Regular
+30/07/2025 08:12:53,50 a 64,Bueno,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente,Bueno
+18/06/2025 21:26:24,50 a 64,Excelente,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Excelente
+09/09/2025 14:16:37,30 a 49,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Excelente
+22/07/2025 00:37:53,30 a 49,Muy Bueno,Regular,Bueno,Bueno,Bueno,Excelente,Excelente,Excelente
+15/10/2025 08:27:57,50 a 64,Excelente,Excelente,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+01/10/2025 15:26:59,50 a 64,Excelente,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Bueno,Excelente
+15/06/2025 03:21:25,30 a 49,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno
+05/07/2025 16:39:19,18 a 29,Muy Bueno,Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente
+23/10/2025 21:40:43,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+19/08/2025 15:45:40,50 a 64,Excelente,Excelente,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Regular
+24/10/2025 08:05:55,65 o más,Excelente,Excelente,Excelente,Bueno,Excelente,Regular,Muy Bueno,Muy Bueno
+28/06/2025 13:28:17,50 a 64,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Bueno
+27/07/2025 09:21:48,65 o más,Muy Bueno,Bueno,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente
+25/07/2025 14:54:51,18 a 29,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Bueno,Bueno,Excelente
+17/07/2025 07:08:23,18 a 29,Muy Bueno,Regular,Muy Bueno,Excelente,Excelente,Regular,Excelente,Excelente
+04/06/2025 07:06:32,18 a 29,Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Bueno
+26/08/2025 07:50:32,30 a 49,Excelente,Excelente,Bueno,Excelente,Excelente,Bueno,Muy Bueno,Bueno
+31/07/2025 23:53:30,65 o más,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Regular
+06/10/2025 19:02:44,30 a 49,Muy Bueno,Excelente,Bueno,Bueno,Regular,Muy Bueno,Bueno,Bueno
+03/08/2025 05:17:44,50 a 64,Muy Bueno,Bueno,Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno
+04/09/2025 16:33:38,18 a 29,Excelente,Muy Bueno,Bueno,Bueno,Excelente,Bueno,Excelente,Muy Bueno
+08/08/2025 04:09:11,65 o más,Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno
+25/09/2025 22:12:26,50 a 64,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Regular
+28/10/2025 04:46:44,18 a 29,Muy Bueno,Regular,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente
+03/06/2025 15:15:39,30 a 49,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Regular,Bueno,Muy Bueno
+17/09/2025 09:25:02,30 a 49,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno
+29/09/2025 12:43:57,50 a 64,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+06/07/2025 07:23:00,65 o más,Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Regular,Excelente
+20/10/2025 03:42:12,65 o más,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno
+19/07/2025 21:16:57,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno
+27/10/2025 13:26:31,30 a 49,Excelente,Excelente,Excelente,Muy Bueno,Bueno,Bueno,Bueno,Excelente
+29/10/2025 12:27:12,30 a 49,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Bueno,Bueno
+09/06/2025 14:33:30,18 a 29,Bueno,Bueno,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno
+03/07/2025 10:15:59,30 a 49,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Excelente,Bueno,Excelente
+02/06/2025 11:06:47,65 o más,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Bueno,Bueno,Muy Bueno
+01/07/2025 17:30:41,65 o más,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Regular
+03/08/2025 18:46:03,50 a 64,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Regular
+02/07/2025 06:34:55,65 o más,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Excelente,Regular,Muy Bueno
+01/09/2025 05:08:01,65 o más,Excelente,Excelente,Excelente,Bueno,Regular,Excelente,Muy Bueno,Regular
+13/10/2025 19:16:59,65 o más,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+09/09/2025 03:17:33,30 a 49,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+16/07/2025 20:36:14,18 a 29,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Muy Bueno
+18/10/2025 12:29:34,50 a 64,Excelente,Bueno,Bueno,Bueno,Excelente,Bueno,Muy Bueno,Excelente
+20/08/2025 12:40:40,30 a 49,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno
+24/09/2025 03:43:22,50 a 64,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+05/08/2025 03:32:10,18 a 29,Muy Bueno,Bueno,Bueno,Excelente,Excelente,Excelente,Bueno,Regular
+16/09/2025 10:50:08,30 a 49,Excelente,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Bueno,Excelente
+28/09/2025 03:20:16,18 a 29,Excelente,Excelente,Excelente,Excelente,Excelente,Regular,Muy Bueno,Excelente
+16/08/2025 11:29:04,50 a 64,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Regular,Excelente
+18/10/2025 22:34:49,50 a 64,Malo,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente,Bueno
+29/10/2025 01:23:44,50 a 64,Muy Bueno,Bueno,Bueno,Muy Bueno,Excelente,Bueno,Excelente,Excelente
+25/10/2025 01:49:20,30 a 49,Excelente,Excelente,Excelente,Muy Bueno,Bueno,Excelente,Bueno,Excelente
+15/07/2025 13:27:00,65 o más,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Bueno,Regular,Excelente
+02/10/2025 00:17:26,30 a 49,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+29/07/2025 14:41:12,65 o más,Excelente,Excelente,Muy Bueno,Muy Bueno,Regular,Bueno,Regular,Excelente
+17/09/2025 08:47:13,50 a 64,Bueno,Bueno,Excelente,Bueno,Excelente,Bueno,Bueno,Excelente
+08/07/2025 11:09:42,50 a 64,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Muy Bueno
+11/08/2025 00:27:23,30 a 49,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno
+25/07/2025 08:32:30,65 o más,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Bueno,Excelente
+25/06/2025 02:14:07,30 a 49,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+13/07/2025 15:47:00,50 a 64,Bueno,Bueno,Excelente,Bueno,Muy Bueno,Regular,Excelente,Muy Bueno
+23/09/2025 20:25:19,30 a 49,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno
+08/09/2025 17:19:22,65 o más,Bueno,Bueno,Bueno,Bueno,Muy Bueno,Bueno,Bueno,Excelente
+23/09/2025 06:29:40,18 a 29,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Regular,Excelente,Bueno
+25/10/2025 12:21:53,50 a 64,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Bueno
+05/11/2025 01:10:37,30 a 49,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+02/09/2025 05:26:58,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno
+11/10/2025 23:09:48,30 a 49,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno
+14/09/2025 14:24:11,65 o más,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Excelente,Bueno,Excelente
+04/11/2025 02:00:36,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente,Excelente
+19/08/2025 10:03:19,50 a 64,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Regular,Bueno
+06/10/2025 19:29:58,30 a 49,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Excelente,Bueno,Bueno
+12/07/2025 04:16:23,18 a 29,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno
+22/09/2025 11:29:43,30 a 49,Muy Bueno,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+17/09/2025 14:57:09,18 a 29,Excelente,Excelente,Bueno,Regular,Excelente,Bueno,Bueno,Excelente
+06/06/2025 06:53:08,65 o más,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Excelente
+27/08/2025 06:39:59,30 a 49,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+14/09/2025 05:44:41,30 a 49,Excelente,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Regular,Bueno
+02/06/2025 13:13:42,50 a 64,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+01/09/2025 09:05:15,50 a 64,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+26/08/2025 02:13:35,50 a 64,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente
+06/10/2025 19:42:59,18 a 29,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno
+26/06/2025 15:33:47,30 a 49,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+07/08/2025 12:44:42,50 a 64,Muy Bueno,Bueno,Excelente,Excelente,Bueno,Excelente,Bueno,Bueno
+18/09/2025 00:37:30,50 a 64,Excelente,Bueno,Bueno,Excelente,Muy Bueno,Excelente,Bueno,Excelente
+11/10/2025 08:33:56,50 a 64,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+11/08/2025 04:08:01,50 a 64,Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Regular,Excelente
+11/07/2025 10:42:41,65 o más,Bueno,Bueno,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Excelente
+05/08/2025 23:47:30,18 a 29,Muy Bueno,Regular,Bueno,Excelente,Excelente,Excelente,Bueno,Excelente
+28/09/2025 06:46:22,50 a 64,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno
+08/07/2025 00:45:39,30 a 49,Excelente,Regular,Muy Bueno,Muy Bueno,Regular,Bueno,Bueno,Excelente
+20/06/2025 00:47:24,30 a 49,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno
+31/05/2025 14:31:12,65 o más,Bueno,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+29/07/2025 19:54:02,30 a 49,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Regular,Bueno,Muy Bueno
+22/06/2025 06:55:40,30 a 49,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Regular,Bueno,Excelente,Muy Bueno
+26/09/2025 10:25:03,18 a 29,Excelente,Muy Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+26/10/2025 20:16:36,50 a 64,Excelente,Excelente,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno,Excelente
+11/07/2025 21:57:35,30 a 49,Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+23/06/2025 08:56:08,65 o más,Excelente,Excelente,Excelente,Bueno,Excelente,Excelente,Bueno,Muy Bueno
+07/06/2025 07:36:08,50 a 64,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Regular,Regular,Bueno
+26/09/2025 15:19:10,65 o más,Excelente,Excelente,Muy Bueno,Excelente,Regular,Excelente,Bueno,Excelente
+05/07/2025 10:04:58,65 o más,Bueno,Regular,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+19/08/2025 23:02:01,30 a 49,Excelente,Regular,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+17/09/2025 10:56:40,50 a 64,Muy Bueno,Excelente,Muy Bueno,Excelente,Regular,Bueno,Muy Bueno,Muy Bueno
+18/06/2025 10:55:50,65 o más,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+09/10/2025 21:07:26,18 a 29,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Regular,Excelente,Excelente
+22/06/2025 18:05:36,65 o más,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Excelente,Bueno,Excelente
+28/07/2025 23:27:37,50 a 64,Muy Bueno,Bueno,Excelente,Muy Bueno,Regular,Muy Bueno,Bueno,Muy Bueno
+13/08/2025 20:54:49,30 a 49,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente
+09/06/2025 16:58:52,30 a 49,Excelente,Muy Bueno,Excelente,Excelente,Regular,Regular,Excelente,Excelente
+16/10/2025 20:35:38,30 a 49,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Bueno,Bueno
+06/06/2025 20:32:44,50 a 64,Malo,Regular,Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente
+21/09/2025 00:01:04,18 a 29,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Bueno,Bueno
+11/09/2025 07:44:27,18 a 29,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Regular,Excelente
+20/09/2025 18:41:55,50 a 64,Malo,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+11/09/2025 19:54:03,30 a 49,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno,Regular,Excelente
+29/07/2025 21:53:43,50 a 64,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno
+23/07/2025 13:26:54,30 a 49,Muy Bueno,Excelente,Bueno,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno
+20/10/2025 18:45:51,65 o más,Bueno,Regular,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+03/11/2025 00:05:10,30 a 49,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Excelente
+15/06/2025 18:01:54,30 a 49,Bueno,Bueno,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Excelente,Excelente
+17/07/2025 12:19:45,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno
+20/09/2025 06:07:53,30 a 49,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Bueno
+09/08/2025 12:33:16,65 o más,Muy Bueno,Bueno,Muy Bueno,Regular,Excelente,Muy Bueno,Excelente,Excelente
+16/09/2025 10:32:44,65 o más,Muy Bueno,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Excelente,Excelente
+21/07/2025 08:01:43,50 a 64,Bueno,Excelente,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente
+18/07/2025 19:01:10,30 a 49,Muy Bueno,Bueno,Excelente,Muy Bueno,Regular,Regular,Regular,Muy Bueno
+04/09/2025 12:42:37,50 a 64,Excelente,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Excelente,Muy Bueno
+29/07/2025 08:44:11,30 a 49,Excelente,Regular,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Regular
+22/09/2025 23:20:33,30 a 49,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno
+25/08/2025 10:52:34,30 a 49,Excelente,Muy Bueno,Bueno,Bueno,Regular,Muy Bueno,Bueno,Muy Bueno
+26/10/2025 19:17:25,65 o más,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Excelente,Bueno,Bueno
+31/07/2025 04:08:28,30 a 49,Excelente,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+12/08/2025 09:15:55,50 a 64,Muy Bueno,Excelente,Bueno,Bueno,Excelente,Bueno,Bueno,Excelente
+28/09/2025 08:57:15,30 a 49,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+30/08/2025 10:53:54,65 o más,Bueno,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Bueno
+11/07/2025 12:13:11,65 o más,Muy Bueno,Excelente,Bueno,Regular,Regular,Excelente,Bueno,Excelente
+08/06/2025 19:31:26,50 a 64,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Bueno,Regular,Bueno
+16/08/2025 05:35:49,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Regular,Bueno
+21/07/2025 20:27:23,18 a 29,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+29/06/2025 10:33:33,50 a 64,Excelente,Muy Bueno,Bueno,Excelente,Regular,Muy Bueno,Excelente,Excelente
+11/08/2025 06:32:49,30 a 49,Excelente,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno
+16/08/2025 16:55:40,30 a 49,Muy Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+05/07/2025 00:37:03,30 a 49,Bueno,Muy Bueno,Excelente,Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno
+14/06/2025 17:04:33,50 a 64,Muy Bueno,Excelente,Muy Bueno,Bueno,Regular,Bueno,Muy Bueno,Muy Bueno
+21/07/2025 23:42:58,30 a 49,Excelente,Regular,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+16/06/2025 05:49:43,18 a 29,Excelente,Muy Bueno,Bueno,Bueno,Excelente,Excelente,Muy Bueno,Excelente
+23/06/2025 22:37:12,65 o más,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+12/08/2025 09:08:37,50 a 64,Excelente,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+04/06/2025 12:37:43,30 a 49,Bueno,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno,Bueno,Excelente
+13/07/2025 18:41:12,50 a 64,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno
+21/10/2025 00:44:28,30 a 49,Excelente,Muy Bueno,Bueno,Bueno,Bueno,Excelente,Muy Bueno,Excelente
+10/10/2025 22:36:04,65 o más,Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Bueno,Excelente
+28/07/2025 19:12:54,50 a 64,Bueno,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+21/09/2025 17:11:26,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente
+04/09/2025 10:04:41,30 a 49,Muy Bueno,Bueno,Bueno,Bueno,Regular,Excelente,Excelente,Muy Bueno
+12/09/2025 15:43:38,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente
+24/09/2025 05:42:45,18 a 29,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+28/09/2025 16:45:07,18 a 29,Muy Bueno,Muy Bueno,Bueno,Regular,Excelente,Excelente,Excelente,Excelente
+21/06/2025 22:01:19,30 a 49,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Regular,Bueno,Muy Bueno
+14/10/2025 13:07:47,65 o más,Muy Bueno,Bueno,Muy Bueno,Bueno,Bueno,Bueno,Muy Bueno,Excelente
+17/08/2025 16:22:10,50 a 64,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Bueno,Bueno,Bueno
+22/08/2025 15:06:13,50 a 64,Muy Bueno,Excelente,Excelente,Muy Bueno,Regular,Excelente,Muy Bueno,Muy Bueno
+10/07/2025 14:01:48,50 a 64,Muy Bueno,Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente
+08/09/2025 06:03:09,50 a 64,Bueno,Excelente,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+22/08/2025 16:38:13,18 a 29,Malo,Excelente,Bueno,Bueno,Excelente,Excelente,Excelente,Bueno
+01/08/2025 16:38:31,50 a 64,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+03/10/2025 17:44:39,30 a 49,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Regular
+28/06/2025 07:14:01,18 a 29,Excelente,Muy Bueno,Bueno,Bueno,Excelente,Excelente,Regular,Excelente
+12/09/2025 23:25:29,50 a 64,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+08/08/2025 16:13:31,65 o más,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno
+08/09/2025 12:39:25,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Regular,Excelente
+06/08/2025 14:44:59,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+24/07/2025 01:24:08,50 a 64,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Excelente
+14/09/2025 05:37:56,30 a 49,Bueno,Regular,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente
+17/07/2025 21:11:44,30 a 49,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente
+05/10/2025 00:21:02,18 a 29,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Muy Bueno
+02/06/2025 16:23:24,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Excelente,Excelente
+20/06/2025 12:48:28,50 a 64,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno
+29/08/2025 09:35:38,30 a 49,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Regular,Muy Bueno,Regular,Excelente
+03/10/2025 03:01:46,18 a 29,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+19/09/2025 19:41:25,50 a 64,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Bueno,Excelente
+09/07/2025 11:29:46,30 a 49,Muy Bueno,Excelente,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Excelente,Excelente
+13/10/2025 16:02:59,30 a 49,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Excelente
+25/10/2025 17:26:50,65 o más,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente
+02/09/2025 12:13:24,50 a 64,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Regular,Excelente
+30/08/2025 11:41:51,30 a 49,Excelente,Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+04/11/2025 17:17:46,30 a 49,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Bueno,Excelente
+21/06/2025 08:49:25,65 o más,Muy Bueno,Excelente,Excelente,Regular,Excelente,Excelente,Muy Bueno,Bueno
+27/06/2025 15:38:03,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno
+22/07/2025 18:15:45,30 a 49,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Bueno
+25/10/2025 12:25:59,30 a 49,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+28/08/2025 12:59:41,50 a 64,Excelente,Regular,Bueno,Muy Bueno,Regular,Bueno,Muy Bueno,Excelente
+26/06/2025 20:39:09,18 a 29,Bueno,Bueno,Bueno,Excelente,Excelente,Excelente,Excelente,Excelente
+06/11/2025 20:34:38,50 a 64,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno
+15/08/2025 21:35:36,18 a 29,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno
+09/10/2025 22:01:19,30 a 49,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Bueno,Bueno,Excelente
+03/10/2025 22:04:58,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente
+07/08/2025 06:35:28,30 a 49,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+10/09/2025 13:04:06,65 o más,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Bueno,Excelente,Excelente
+24/08/2025 23:40:08,18 a 29,Muy Bueno,Excelente,Muy Bueno,Bueno,Regular,Muy Bueno,Regular,Excelente
+02/08/2025 11:12:58,50 a 64,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+05/07/2025 03:31:54,50 a 64,Excelente,Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+01/07/2025 21:12:30,50 a 64,Excelente,Excelente,Bueno,Regular,Muy Bueno,Excelente,Excelente,Excelente
+13/07/2025 02:45:17,30 a 49,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno
+11/08/2025 15:56:00,18 a 29,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Muy Bueno
+02/11/2025 01:35:55,30 a 49,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente
+04/10/2025 17:04:33,65 o más,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Regular,Excelente
+05/07/2025 19:30:54,65 o más,Muy Bueno,Bueno,Bueno,Muy Bueno,Regular,Muy Bueno,Excelente,Excelente
+12/06/2025 18:55:55,30 a 49,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno,Bueno,Excelente
+29/07/2025 04:38:08,30 a 49,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+22/10/2025 17:40:22,50 a 64,Excelente,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Regular,Muy Bueno
+17/08/2025 01:01:36,30 a 49,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Regular
+07/06/2025 13:49:29,30 a 49,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno
+28/07/2025 01:49:24,50 a 64,Malo,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+03/06/2025 05:34:35,65 o más,Excelente,Bueno,Muy Bueno,Regular,Muy Bueno,Bueno,Muy Bueno,Excelente
+16/10/2025 22:59:58,65 o más,Bueno,Excelente,Bueno,Regular,Excelente,Excelente,Bueno,Muy Bueno
+06/08/2025 04:44:14,18 a 29,Bueno,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente
+31/05/2025 02:07:15,18 a 29,Muy Bueno,Muy Bueno,Excelente,Bueno,Bueno,Muy Bueno,Bueno,Bueno
+15/07/2025 18:50:06,30 a 49,Excelente,Excelente,Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno
+11/07/2025 00:30:47,18 a 29,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+19/09/2025 19:54:36,30 a 49,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+23/07/2025 04:30:06,18 a 29,Muy Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno
+17/06/2025 05:41:55,50 a 64,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente
+30/08/2025 18:37:45,30 a 49,Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+13/10/2025 15:51:13,30 a 49,Excelente,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+31/08/2025 23:31:45,18 a 29,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente
+30/06/2025 09:50:16,65 o más,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno
+08/10/2025 19:20:57,18 a 29,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Bueno,Muy Bueno
+12/09/2025 06:18:27,18 a 29,Muy Bueno,Excelente,Bueno,Bueno,Excelente,Excelente,Muy Bueno,Bueno
+07/10/2025 23:32:11,65 o más,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Bueno
+31/10/2025 19:09:16,50 a 64,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Bueno,Bueno,Muy Bueno
+28/10/2025 02:55:52,50 a 64,Muy Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+10/06/2025 19:58:57,50 a 64,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno
+20/10/2025 11:24:13,18 a 29,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+05/09/2025 19:58:57,30 a 49,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente
+18/10/2025 16:43:15,30 a 49,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Excelente,Regular,Bueno
+07/11/2025 10:35:51,18 a 29,Muy Bueno,Bueno,Bueno,Bueno,Muy Bueno,Bueno,Bueno,Excelente
+26/08/2025 10:34:53,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+11/07/2025 23:45:58,65 o más,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno
+28/10/2025 14:45:29,18 a 29,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno,Muy Bueno
+04/06/2025 21:19:30,30 a 49,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente
+21/07/2025 19:14:07,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+22/06/2025 05:26:50,30 a 49,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Excelente
+04/08/2025 11:36:34,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+14/06/2025 11:10:57,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+07/06/2025 00:18:00,65 o más,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Excelente,Bueno,Muy Bueno
+18/06/2025 15:19:53,50 a 64,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno
+04/07/2025 22:34:43,50 a 64,Malo,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Bueno,Regular
+08/06/2025 13:29:40,50 a 64,Bueno,Bueno,Bueno,Excelente,Bueno,Bueno,Muy Bueno,Excelente
+21/06/2025 07:53:13,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Bueno,Excelente
+13/10/2025 17:23:54,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Excelente
+23/08/2025 21:13:48,65 o más,Muy Bueno,Muy Bueno,Bueno,Regular,Muy Bueno,Muy Bueno,Excelente,Bueno
+19/10/2025 19:38:29,65 o más,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Bueno,Bueno,Muy Bueno
+15/08/2025 04:21:04,50 a 64,Bueno,Excelente,Excelente,Bueno,Excelente,Excelente,Bueno,Bueno
+25/06/2025 13:16:32,30 a 49,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno
+12/08/2025 17:52:02,50 a 64,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+12/07/2025 08:21:01,30 a 49,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Excelente
+28/08/2025 17:27:34,18 a 29,Excelente,Excelente,Bueno,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno
+01/09/2025 02:54:04,18 a 29,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+02/07/2025 11:05:59,50 a 64,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno,Bueno,Muy Bueno
+21/09/2025 04:05:35,50 a 64,Excelente,Excelente,Excelente,Bueno,Excelente,Bueno,Bueno,Excelente
+19/09/2025 10:26:06,50 a 64,Excelente,Excelente,Muy Bueno,Regular,Bueno,Muy Bueno,Excelente,Excelente
+10/06/2025 23:06:43,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Excelente
+28/07/2025 11:37:54,18 a 29,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Excelente
+29/06/2025 08:59:36,30 a 49,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Excelente
+01/11/2025 03:57:07,50 a 64,Muy Bueno,Regular,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+02/09/2025 07:34:41,65 o más,Excelente,Muy Bueno,Excelente,Bueno,Regular,Muy Bueno,Bueno,Muy Bueno
+15/06/2025 00:49:33,18 a 29,Excelente,Excelente,Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente
+15/10/2025 09:45:59,30 a 49,Muy Bueno,Muy Bueno,Excelente,Bueno,Bueno,Excelente,Regular,Excelente
+01/10/2025 21:36:13,30 a 49,Bueno,Excelente,Excelente,Bueno,Muy Bueno,Excelente,Bueno,Bueno
+04/10/2025 19:39:55,50 a 64,Bueno,Excelente,Bueno,Excelente,Regular,Muy Bueno,Muy Bueno,Muy Bueno
+02/11/2025 03:22:13,30 a 49,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+03/11/2025 11:14:16,30 a 49,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Bueno
+22/10/2025 16:38:33,30 a 49,Excelente,Bueno,Muy Bueno,Regular,Muy Bueno,Excelente,Muy Bueno,Excelente
+19/09/2025 08:12:54,50 a 64,Muy Bueno,Excelente,Muy Bueno,Bueno,Regular,Bueno,Muy Bueno,Muy Bueno
+29/07/2025 16:15:32,65 o más,Excelente,Excelente,Muy Bueno,Bueno,Regular,Bueno,Bueno,Bueno
+12/09/2025 02:36:51,50 a 64,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+03/10/2025 20:52:18,50 a 64,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno
+25/08/2025 06:58:57,65 o más,Excelente,Bueno,Excelente,Muy Bueno,Regular,Bueno,Bueno,Excelente
+01/09/2025 15:07:41,50 a 64,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Regular,Muy Bueno,Muy Bueno
+07/08/2025 10:40:00,30 a 49,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Regular
+19/06/2025 01:36:45,18 a 29,Excelente,Muy Bueno,Bueno,Bueno,Excelente,Excelente,Bueno,Muy Bueno
+18/07/2025 18:40:08,30 a 49,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Bueno
+28/06/2025 16:24:04,65 o más,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+09/09/2025 06:37:32,50 a 64,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Regular
+12/09/2025 06:44:18,50 a 64,Muy Bueno,Regular,Muy Bueno,Excelente,Excelente,Excelente,Bueno,Muy Bueno
+06/06/2025 20:14:34,18 a 29,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno
+06/11/2025 23:40:59,30 a 49,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+02/09/2025 12:24:31,30 a 49,Muy Bueno,Bueno,Muy Bueno,Bueno,Regular,Excelente,Muy Bueno,Muy Bueno
+17/08/2025 07:47:10,50 a 64,Muy Bueno,Regular,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente
+06/10/2025 08:05:08,50 a 64,Excelente,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+09/09/2025 04:33:37,50 a 64,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Excelente
+05/08/2025 17:55:25,18 a 29,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno,Bueno,Excelente
+22/08/2025 06:21:45,65 o más,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+21/09/2025 08:53:23,30 a 49,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente
+29/10/2025 07:35:30,30 a 49,Bueno,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno
+12/10/2025 13:51:37,50 a 64,Excelente,Excelente,Excelente,Excelente,Excelente,Regular,Bueno,Excelente
+25/10/2025 17:25:52,30 a 49,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Excelente,Excelente,Bueno
+03/07/2025 00:34:11,30 a 49,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno
+09/09/2025 14:25:02,18 a 29,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+31/08/2025 05:59:51,65 o más,Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+10/10/2025 13:06:14,65 o más,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Regular,Bueno,Bueno,Muy Bueno
+31/07/2025 05:06:27,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Bueno,Bueno,Regular
+31/08/2025 06:44:43,18 a 29,Excelente,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Excelente
+24/06/2025 17:28:58,30 a 49,Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+28/10/2025 01:08:46,30 a 49,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+08/07/2025 14:31:10,30 a 49,Muy Bueno,Excelente,Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+09/07/2025 12:54:47,50 a 64,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno,Excelente,Bueno
+30/10/2025 22:25:28,18 a 29,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Regular,Excelente,Excelente
+14/09/2025 12:30:43,50 a 64,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Excelente
+15/07/2025 09:57:18,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Bueno,Excelente
+07/09/2025 11:15:54,18 a 29,Excelente,Excelente,Excelente,Bueno,Regular,Excelente,Excelente,Muy Bueno
+08/08/2025 12:16:00,65 o más,Muy Bueno,Regular,Excelente,Bueno,Excelente,Muy Bueno,Regular,Excelente
+25/08/2025 22:46:52,30 a 49,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente
+09/10/2025 12:33:01,30 a 49,Excelente,Excelente,Excelente,Regular,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+02/11/2025 22:04:38,65 o más,Excelente,Excelente,Excelente,Bueno,Regular,Muy Bueno,Muy Bueno,Bueno
+04/08/2025 07:16:46,18 a 29,Muy Bueno,Regular,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Excelente
+20/10/2025 21:40:09,50 a 64,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno
+05/09/2025 20:00:36,18 a 29,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Bueno,Bueno,Muy Bueno
+18/07/2025 07:20:31,30 a 49,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Regular
+25/08/2025 12:52:26,50 a 64,Excelente,Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+15/09/2025 05:41:17,50 a 64,Excelente,Bueno,Excelente,Bueno,Muy Bueno,Excelente,Excelente,Bueno
+12/09/2025 03:21:41,30 a 49,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Excelente
+20/07/2025 16:04:03,65 o más,Muy Bueno,Bueno,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno
+13/07/2025 09:12:43,30 a 49,Bueno,Regular,Bueno,Excelente,Muy Bueno,Excelente,Regular,Muy Bueno
+09/08/2025 14:56:28,50 a 64,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno
+06/06/2025 11:51:05,30 a 49,Bueno,Excelente,Excelente,Bueno,Regular,Excelente,Muy Bueno,Excelente
+09/09/2025 13:56:39,18 a 29,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente,Bueno,Excelente
+03/06/2025 22:33:44,50 a 64,Muy Bueno,Bueno,Bueno,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno
+08/06/2025 12:07:53,50 a 64,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno
+24/07/2025 22:46:54,30 a 49,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente
+04/09/2025 07:30:26,30 a 49,Excelente,Excelente,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente
+02/07/2025 08:20:05,18 a 29,Muy Bueno,Regular,Bueno,Bueno,Excelente,Excelente,Regular,Regular
+01/10/2025 19:48:02,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Bueno
+02/11/2025 19:00:37,50 a 64,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Excelente
+23/06/2025 10:08:53,30 a 49,Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+29/08/2025 09:18:11,18 a 29,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno
+06/06/2025 13:44:57,30 a 49,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Bueno,Bueno,Excelente
+12/08/2025 18:03:33,30 a 49,Muy Bueno,Excelente,Bueno,Excelente,Bueno,Bueno,Excelente,Excelente
+12/09/2025 16:13:24,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno
+03/11/2025 20:56:29,50 a 64,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno
+06/11/2025 00:59:33,18 a 29,Malo,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Regular,Excelente
+19/07/2025 03:02:39,30 a 49,Excelente,Excelente,Muy Bueno,Bueno,Regular,Muy Bueno,Bueno,Bueno
+07/11/2025 11:03:57,65 o más,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente
+17/09/2025 13:07:44,30 a 49,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno
+02/06/2025 17:43:17,30 a 49,Excelente,Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Excelente
+14/10/2025 21:56:41,30 a 49,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Bueno
+30/06/2025 16:36:24,65 o más,Bueno,Muy Bueno,Excelente,Excelente,Bueno,Bueno,Muy Bueno,Excelente
+22/06/2025 19:08:55,30 a 49,Excelente,Bueno,Excelente,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Bueno
+20/07/2025 15:48:27,50 a 64,Malo,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Bueno
+20/07/2025 19:34:45,30 a 49,Muy Bueno,Regular,Excelente,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente
+10/10/2025 16:17:56,30 a 49,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Bueno
+25/09/2025 22:42:32,50 a 64,Excelente,Muy Bueno,Bueno,Bueno,Excelente,Excelente,Bueno,Muy Bueno
+02/11/2025 23:18:37,50 a 64,Excelente,Bueno,Excelente,Regular,Regular,Regular,Muy Bueno,Excelente
+05/11/2025 03:39:37,18 a 29,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Bueno
+15/08/2025 08:20:04,30 a 49,Bueno,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno
+23/07/2025 03:58:36,30 a 49,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente
+08/10/2025 08:11:44,65 o más,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+04/07/2025 19:27:10,30 a 49,Bueno,Excelente,Excelente,Excelente,Excelente,Excelente,Bueno,Excelente
+26/09/2025 18:17:45,65 o más,Muy Bueno,Excelente,Excelente,Muy Bueno,Regular,Muy Bueno,Bueno,Bueno
+27/09/2025 18:31:32,18 a 29,Excelente,Bueno,Bueno,Excelente,Excelente,Excelente,Bueno,Excelente
+23/08/2025 03:51:41,30 a 49,Malo,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno
+25/09/2025 18:20:32,18 a 29,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno
+28/10/2025 18:01:23,18 a 29,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente
+08/08/2025 04:05:10,50 a 64,Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+05/07/2025 18:18:41,30 a 49,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Regular,Excelente
+10/08/2025 22:37:19,50 a 64,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Excelente
+22/07/2025 10:19:27,30 a 49,Excelente,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Excelente,Bueno,Muy Bueno
+23/10/2025 11:37:18,18 a 29,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Excelente,Bueno
+03/06/2025 10:19:58,30 a 49,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente
+23/10/2025 01:43:57,50 a 64,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Bueno,Bueno,Muy Bueno
+03/06/2025 11:33:37,18 a 29,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Regular,Muy Bueno
+26/09/2025 04:45:05,30 a 49,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno
+09/09/2025 06:44:19,50 a 64,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+30/07/2025 22:00:09,65 o más,Excelente,Regular,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Bueno
+30/07/2025 04:43:59,50 a 64,Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente
+22/09/2025 04:22:27,30 a 49,Excelente,Excelente,Muy Bueno,Bueno,Excelente,Bueno,Excelente,Bueno
+06/09/2025 23:54:39,50 a 64,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Regular,Bueno,Excelente
+09/06/2025 04:02:18,65 o más,Excelente,Regular,Bueno,Regular,Muy Bueno,Muy Bueno,Bueno,Excelente
+11/07/2025 03:23:17,18 a 29,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno
+09/07/2025 21:23:20,30 a 49,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Excelente
+17/08/2025 00:59:57,50 a 64,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno
+09/07/2025 22:05:58,50 a 64,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Bueno,Bueno
+13/10/2025 05:56:14,65 o más,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+28/10/2025 07:10:55,50 a 64,Excelente,Muy Bueno,Muy Bueno,Bueno,Regular,Muy Bueno,Bueno,Bueno
+01/06/2025 07:12:40,50 a 64,Muy Bueno,Bueno,Bueno,Excelente,Muy Bueno,Bueno,Regular,Excelente
+15/09/2025 15:03:54,30 a 49,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Regular,Excelente
+08/09/2025 05:14:02,50 a 64,Excelente,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno
+09/06/2025 21:52:49,50 a 64,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Regular
+12/10/2025 14:52:58,30 a 49,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+23/06/2025 17:28:46,30 a 49,Excelente,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+01/09/2025 13:19:50,30 a 49,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno
+22/07/2025 10:43:24,50 a 64,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Bueno,Bueno
+04/09/2025 10:18:54,50 a 64,Muy Bueno,Muy Bueno,Bueno,Bueno,Regular,Bueno,Muy Bueno,Bueno
+24/09/2025 07:54:56,30 a 49,Malo,Bueno,Excelente,Bueno,Regular,Muy Bueno,Excelente,Bueno
+29/08/2025 08:46:58,30 a 49,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Excelente,Excelente
+13/10/2025 03:42:39,18 a 29,Excelente,Excelente,Muy Bueno,Muy Bueno,Regular,Muy Bueno,Bueno,Excelente
+02/06/2025 10:30:56,18 a 29,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+14/10/2025 02:02:51,18 a 29,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+05/09/2025 17:52:06,30 a 49,Bueno,Muy Bueno,Excelente,Muy Bueno,Regular,Bueno,Muy Bueno,Muy Bueno
+25/08/2025 10:41:43,30 a 49,Bueno,Excelente,Excelente,Bueno,Muy Bueno,Regular,Bueno,Excelente
+20/07/2025 12:11:03,50 a 64,Bueno,Bueno,Muy Bueno,Regular,Excelente,Bueno,Muy Bueno,Bueno
+06/09/2025 23:56:59,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Bueno,Excelente
+06/10/2025 08:34:23,50 a 64,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+27/10/2025 06:40:13,50 a 64,Excelente,Excelente,Muy Bueno,Regular,Regular,Bueno,Bueno,Muy Bueno
+21/10/2025 05:39:57,30 a 49,Bueno,Bueno,Excelente,Bueno,Regular,Bueno,Excelente,Excelente
+15/06/2025 16:45:06,65 o más,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+23/07/2025 03:26:28,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+20/06/2025 05:21:05,50 a 64,Muy Bueno,Regular,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente
+08/11/2025 08:14:44,65 o más,Excelente,Muy Bueno,Muy Bueno,Bueno,Regular,Muy Bueno,Excelente,Bueno
+02/07/2025 23:07:58,18 a 29,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Bueno
+05/10/2025 19:37:07,65 o más,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno
+16/08/2025 05:16:23,30 a 49,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente
+02/07/2025 05:40:22,18 a 29,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Bueno,Bueno,Excelente
+22/10/2025 10:09:58,50 a 64,Muy Bueno,Regular,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente
+13/07/2025 19:16:21,30 a 49,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+03/07/2025 13:03:38,30 a 49,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Regular,Muy Bueno,Muy Bueno,Excelente
+10/08/2025 18:19:43,30 a 49,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno
+27/09/2025 00:23:55,50 a 64,Excelente,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Regular,Bueno
+11/07/2025 17:24:24,30 a 49,Excelente,Regular,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Muy Bueno
+13/10/2025 07:50:51,30 a 49,Muy Bueno,Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Regular,Muy Bueno
+05/07/2025 12:17:18,50 a 64,Excelente,Excelente,Excelente,Regular,Muy Bueno,Bueno,Muy Bueno,Excelente
+18/09/2025 19:21:21,50 a 64,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Regular,Bueno
+10/08/2025 14:15:25,50 a 64,Excelente,Bueno,Excelente,Muy Bueno,Bueno,Excelente,Bueno,Excelente
+08/08/2025 06:32:11,30 a 49,Muy Bueno,Excelente,Muy Bueno,Bueno,Regular,Bueno,Excelente,Bueno
+29/08/2025 04:02:47,65 o más,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente
+19/06/2025 10:28:04,30 a 49,Excelente,Excelente,Bueno,Regular,Muy Bueno,Excelente,Muy Bueno,Bueno
+02/07/2025 07:22:43,30 a 49,Excelente,Bueno,Excelente,Regular,Muy Bueno,Muy Bueno,Bueno,Excelente
+30/05/2025 16:01:41,30 a 49,Muy Bueno,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno
+20/08/2025 14:35:29,50 a 64,Bueno,Bueno,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno
+04/07/2025 08:59:04,50 a 64,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Excelente
+08/10/2025 08:20:20,18 a 29,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente,Excelente
+03/09/2025 16:38:11,30 a 49,Muy Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno
+05/09/2025 07:04:02,30 a 49,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+16/06/2025 04:03:48,50 a 64,Excelente,Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Bueno
+26/10/2025 16:30:43,50 a 64,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Bueno,Excelente
+02/11/2025 12:24:53,30 a 49,Bueno,Excelente,Muy Bueno,Muy Bueno,Regular,Bueno,Muy Bueno,Bueno
+12/09/2025 01:33:17,50 a 64,Bueno,Excelente,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+21/06/2025 04:00:05,65 o más,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+05/09/2025 16:56:06,18 a 29,Bueno,Excelente,Excelente,Bueno,Excelente,Excelente,Regular,Excelente
+08/11/2025 04:26:24,30 a 49,Excelente,Excelente,Bueno,Bueno,Regular,Muy Bueno,Excelente,Muy Bueno
+13/10/2025 07:34:40,50 a 64,Muy Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+12/08/2025 12:55:39,30 a 49,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+04/09/2025 07:33:14,30 a 49,Bueno,Excelente,Bueno,Bueno,Muy Bueno,Regular,Regular,Bueno
+07/09/2025 18:04:06,30 a 49,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Regular,Bueno,Excelente
+05/09/2025 10:26:18,18 a 29,Muy Bueno,Bueno,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Excelente,Excelente
+20/08/2025 21:19:05,65 o más,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+28/08/2025 04:46:01,18 a 29,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno
+16/06/2025 16:27:43,30 a 49,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno
+27/07/2025 02:42:39,30 a 49,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno,Regular,Muy Bueno,Excelente
+01/08/2025 04:24:13,30 a 49,Excelente,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+08/09/2025 05:07:12,18 a 29,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno,Excelente
+03/10/2025 20:41:26,50 a 64,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno
+28/08/2025 08:58:19,65 o más,Muy Bueno,Bueno,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno
+05/08/2025 21:54:01,30 a 49,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno
+17/10/2025 00:27:28,18 a 29,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno,Muy Bueno,Bueno,Bueno
+13/08/2025 19:14:49,18 a 29,Bueno,Excelente,Excelente,Bueno,Excelente,Excelente,Excelente,Bueno
+17/10/2025 07:03:10,50 a 64,Muy Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+22/06/2025 12:32:33,18 a 29,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno
+03/11/2025 15:44:07,18 a 29,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Regular,Excelente
+04/11/2025 05:22:45,18 a 29,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno
+03/06/2025 05:08:56,30 a 49,Bueno,Bueno,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente
+24/10/2025 16:08:25,30 a 49,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Bueno
+08/08/2025 18:10:39,30 a 49,Muy Bueno,Excelente,Bueno,Muy Bueno,Bueno,Regular,Bueno,Regular
+28/08/2025 05:04:24,18 a 29,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente
+30/07/2025 02:25:43,30 a 49,Bueno,Bueno,Bueno,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno
+03/11/2025 20:21:51,30 a 49,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente
+12/09/2025 22:03:31,50 a 64,Excelente,Bueno,Muy Bueno,Regular,Muy Bueno,Excelente,Bueno,Muy Bueno
+23/08/2025 20:18:45,65 o más,Excelente,Regular,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Regular
+06/06/2025 04:17:56,18 a 29,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno
+28/07/2025 21:49:01,30 a 49,Excelente,Bueno,Bueno,Excelente,Excelente,Bueno,Bueno,Excelente
+05/06/2025 01:54:45,18 a 29,Excelente,Bueno,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+02/11/2025 13:21:45,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Regular,Excelente,Muy Bueno
+16/10/2025 21:25:03,30 a 49,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno
+19/07/2025 23:27:40,65 o más,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Bueno,Bueno
+05/06/2025 14:43:02,65 o más,Excelente,Excelente,Muy Bueno,Bueno,Regular,Bueno,Excelente,Muy Bueno
+14/09/2025 00:41:19,50 a 64,Muy Bueno,Regular,Muy Bueno,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno
+05/09/2025 03:51:02,65 o más,Bueno,Bueno,Muy Bueno,Bueno,Excelente,Bueno,Regular,Muy Bueno
+08/06/2025 19:57:04,18 a 29,Muy Bueno,Excelente,Bueno,Excelente,Excelente,Bueno,Muy Bueno,Excelente
+10/08/2025 13:36:59,30 a 49,Malo,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+26/09/2025 20:08:36,30 a 49,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Bueno,Muy Bueno
+16/10/2025 03:43:59,18 a 29,Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno
+19/08/2025 16:43:30,65 o más,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+30/08/2025 19:29:29,50 a 64,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno
+24/09/2025 15:33:42,30 a 49,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Regular,Bueno
+02/08/2025 08:25:46,30 a 49,Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+20/08/2025 00:14:49,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+06/07/2025 16:15:17,50 a 64,Muy Bueno,Regular,Muy Bueno,Bueno,Regular,Excelente,Bueno,Excelente
+14/06/2025 13:15:46,50 a 64,Muy Bueno,Bueno,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente
+12/07/2025 19:59:01,65 o más,Muy Bueno,Excelente,Bueno,Bueno,Muy Bueno,Excelente,Bueno,Excelente
+14/07/2025 06:52:20,30 a 49,Muy Bueno,Bueno,Muy Bueno,Bueno,Regular,Excelente,Muy Bueno,Muy Bueno
+12/08/2025 03:48:06,30 a 49,Muy Bueno,Excelente,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+07/07/2025 02:13:12,50 a 64,Muy Bueno,Excelente,Excelente,Bueno,Regular,Muy Bueno,Excelente,Muy Bueno
+05/08/2025 09:24:21,18 a 29,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno
+09/06/2025 00:47:54,30 a 49,Malo,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno
+07/10/2025 22:12:06,30 a 49,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Excelente,Bueno,Excelente
+09/07/2025 17:35:17,18 a 29,Muy Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno
+03/11/2025 05:28:48,50 a 64,Muy Bueno,Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Bueno
+29/06/2025 16:01:23,50 a 64,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente
+03/09/2025 11:40:29,30 a 49,Muy Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Bueno
+04/08/2025 03:58:22,50 a 64,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+05/06/2025 03:21:56,50 a 64,Excelente,Excelente,Bueno,Muy Bueno,Regular,Muy Bueno,Muy Bueno,Bueno
+29/09/2025 18:46:26,65 o más,Muy Bueno,Muy Bueno,Excelente,Bueno,Regular,Muy Bueno,Muy Bueno,Excelente
+25/09/2025 13:56:55,65 o más,Excelente,Excelente,Bueno,Bueno,Excelente,Excelente,Bueno,Excelente
+05/09/2025 14:49:59,30 a 49,Bueno,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Bueno
+23/07/2025 04:23:11,30 a 49,Bueno,Excelente,Bueno,Bueno,Muy Bueno,Bueno,Bueno,Muy Bueno
+21/07/2025 18:37:19,50 a 64,Bueno,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente
+16/10/2025 06:28:37,50 a 64,Excelente,Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Bueno,Bueno
+18/06/2025 10:59:46,65 o más,Bueno,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Regular,Muy Bueno
+08/08/2025 12:04:12,30 a 49,Excelente,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Bueno,Excelente
+24/10/2025 15:15:39,30 a 49,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+04/10/2025 19:45:46,65 o más,Muy Bueno,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+30/08/2025 00:07:25,50 a 64,Muy Bueno,Regular,Excelente,Excelente,Excelente,Muy Bueno,Regular,Excelente
+04/11/2025 10:11:17,50 a 64,Malo,Bueno,Excelente,Excelente,Muy Bueno,Bueno,Bueno,Excelente
+02/11/2025 08:02:55,65 o más,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+06/11/2025 09:14:49,18 a 29,Excelente,Bueno,Muy Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+12/09/2025 04:19:04,30 a 49,Bueno,Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Bueno,Bueno
+27/09/2025 16:52:34,30 a 49,Malo,Bueno,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Excelente
+08/10/2025 23:38:06,18 a 29,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Regular,Muy Bueno
+25/06/2025 16:51:03,65 o más,Muy Bueno,Regular,Bueno,Bueno,Bueno,Bueno,Bueno,Bueno
+31/08/2025 10:33:13,65 o más,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Excelente
+27/07/2025 13:30:31,65 o más,Excelente,Excelente,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno
+18/06/2025 20:09:49,18 a 29,Muy Bueno,Bueno,Excelente,Excelente,Regular,Excelente,Excelente,Excelente
+06/06/2025 15:17:15,50 a 64,Malo,Bueno,Muy Bueno,Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente
+03/10/2025 22:02:10,30 a 49,Excelente,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente
+05/09/2025 08:02:30,30 a 49,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente
+22/07/2025 16:32:13,65 o más,Muy Bueno,Excelente,Muy Bueno,Bueno,Bueno,Bueno,Bueno,Excelente
+14/06/2025 15:34:54,30 a 49,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno
+11/09/2025 08:39:16,50 a 64,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Regular,Excelente,Bueno
+09/07/2025 18:20:10,30 a 49,Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Regular
+28/08/2025 15:23:01,30 a 49,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno,Bueno,Muy Bueno,Bueno
+25/07/2025 01:41:16,30 a 49,Muy Bueno,Bueno,Excelente,Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+23/09/2025 23:34:46,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Regular,Excelente
+30/09/2025 08:04:33,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno
+18/10/2025 22:39:17,30 a 49,Muy Bueno,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente,Excelente
+05/08/2025 10:18:08,65 o más,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente
+04/09/2025 23:27:59,18 a 29,Muy Bueno,Bueno,Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente
+01/10/2025 01:04:05,30 a 49,Muy Bueno,Excelente,Excelente,Excelente,Excelente,Excelente,Regular,Excelente
+12/07/2025 08:14:38,50 a 64,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno,Regular
+24/06/2025 06:34:08,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Bueno
+02/06/2025 10:53:08,50 a 64,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno
+06/09/2025 03:11:46,65 o más,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Excelente,Excelente,Excelente
+23/06/2025 01:52:21,50 a 64,Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno
+09/10/2025 21:06:30,50 a 64,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Muy Bueno,Excelente
+24/08/2025 01:25:08,50 a 64,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Excelente,Excelente,Bueno,Muy Bueno
+30/07/2025 02:43:42,30 a 49,Bueno,Muy Bueno,Muy Bueno,Bueno,Muy Bueno,Excelente,Regular,Bueno
+03/10/2025 00:09:28,30 a 49,Excelente,Excelente,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+22/09/2025 15:53:00,30 a 49,Excelente,Excelente,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+07/06/2025 11:42:36,65 o más,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Bueno,Muy Bueno
+27/09/2025 14:09:29,50 a 64,Excelente,Bueno,Muy Bueno,Muy Bueno,Bueno,Bueno,Excelente,Excelente
+16/08/2025 05:30:52,18 a 29,Bueno,Bueno,Excelente,Bueno,Bueno,Muy Bueno,Muy Bueno,Regular
+14/09/2025 07:51:29,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Regular,Excelente
+03/11/2025 18:30:02,65 o más,Muy Bueno,Excelente,Excelente,Bueno,Excelente,Muy Bueno,Excelente,Muy Bueno
+14/10/2025 02:04:56,50 a 64,Excelente,Bueno,Bueno,Muy Bueno,Regular,Muy Bueno,Regular,Excelente
+13/10/2025 08:19:29,30 a 49,Bueno,Bueno,Muy Bueno,Bueno,Excelente,Excelente,Muy Bueno,Excelente
+07/06/2025 22:27:39,30 a 49,Muy Bueno,Regular,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno
+17/08/2025 15:13:34,50 a 64,Excelente,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Muy Bueno,Excelente,Bueno
+30/09/2025 18:06:13,50 a 64,Muy Bueno,Excelente,Muy Bueno,Bueno,Regular,Excelente,Muy Bueno,Muy Bueno
+27/10/2025 00:41:06,18 a 29,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno
+25/06/2025 12:08:04,18 a 29,Bueno,Bueno,Excelente,Muy Bueno,Excelente,Excelente,Excelente,Excelente
+19/07/2025 00:19:56,30 a 49,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Excelente,Bueno,Muy Bueno
+15/10/2025 09:32:38,50 a 64,Muy Bueno,Excelente,Excelente,Muy Bueno,Excelente,Bueno,Bueno,Excelente
+10/07/2025 10:13:30,18 a 29,Excelente,Regular,Excelente,Muy Bueno,Muy Bueno,Bueno,Excelente,Regular
+01/06/2025 16:03:43,50 a 64,Muy Bueno,Muy Bueno,Excelente,Bueno,Muy Bueno,Bueno,Bueno,Excelente
+30/05/2025 20:18:53,50 a 64,Excelente,Muy Bueno,Bueno,Muy Bueno,Excelente,Excelente,Excelente,Muy Bueno
+26/08/2025 03:02:58,50 a 64,Excelente,Excelente,Bueno,Excelente,Excelente,Bueno,Bueno,Muy Bueno
+04/11/2025 00:26:18,30 a 49,Muy Bueno,Excelente,Excelente,Muy Bueno,Muy Bueno,Excelente,Muy Bueno,Muy Bueno
+02/06/2025 17:35:46,50 a 64,Bueno,Excelente,Bueno,Muy Bueno,Excelente,Muy Bueno,Bueno,Excelente
+20/08/2025 10:28:19,50 a 64,Muy Bueno,Excelente,Muy Bueno,Muy Bueno,Excelente,Bueno,Excelente,Muy Bueno
+30/10/2025 20:09:43,18 a 29,Excelente,Regular,Excelente,Bueno,Muy Bueno,Bueno,Regular,Muy Bueno
