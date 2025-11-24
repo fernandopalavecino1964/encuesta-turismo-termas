@@ -1,6 +1,6 @@
-Este es un repositorio para la Materia Práctica Profesionalizante 3
+#Este es un repositorio para la Materia Práctica Profesionalizante 3
 
-Desarrollado por los alumnos María Alejandra Níuñez y Fernando Palavecino.
+##Desarrollado por los alumnos María Alejandra Níuñez y Fernando Palavecino.
 
 El proyecto es "Automatización de Encuestas a turistas que visitan Las Termas de Río Hondo".
 
